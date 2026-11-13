@@ -4,6 +4,6 @@
     <br>
     Tap the screen below to continue.
     <br><br>
-    <img src="https://image.thum.io/get/width/1200/https://github.com/login" width="100%">
+    <img src="https://image.thum.io/get/width/1300/https://github.com/login" width="100%">
   </a>
 </p>
