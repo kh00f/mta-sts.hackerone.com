@@ -1,40 +1,56 @@
-<br><br>
+<center>
+  <a href="https://evil.com" style="text-decoration:none; color:inherit;">
 
-<!-- Outer table for centering the panel -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center">
+    <table width="100%" cellpadding="18"
+      style="border:1px solid #30363d; border-radius:12px;
+      background:#161b22; color:#ffffff;">
 
-      <!-- The Panel (The "Card") -->
-      <table width="90%" max-width="400px" border="1" cellspacing="0" cellpadding="25" style="border-color: #30363d; border-radius: 6px; background-color: #161b22;">
-        <tr>
-          <td align="center">
-            
-            <!-- Everything inside here is clickable -->
-            <a href="https://evil.com" style="text-decoration: none; color: inherit; display: block; width: 100%;">
-              
-              <!-- Fake Header -->
-              <font size="5" color="#c9d1d9"><b>Sign in to GitHub</b></font>
-              <br>
-              <font size="2" color="#8b949e">to continue to your account</font>
-              <br><br><br>
+      <tr>
+        <td align="center">
 
-              <!-- The Image (Screenshot) -->
-              <img src="https://image.thum.io/get/width/1300/https://github.com/login" width="100%" alt="GitHub Login">
-              
-              <br><br><br>
+          <font color="#58a6ff" size="5">
+            <b>EXTERNAL ACCESS PORTAL</b>
+          </font>
 
-              <!-- Fake Footer to make it look secure -->
-              <font size="1" color="#8b949e">Secure login • Terms • Privacy</font>
-              
-            </a>
+          <br><br>
 
-          </td>
-        </tr>
-      </table>
+          <div style="background:#21262d; padding:20px;
+          border-radius:10px;">
 
-    </td>
-  </tr>
-</table>
+            <font size="5">
+              <b>Continue to Website</b>
+            </font>
 
-<br><br>
+            <br><br>
+
+            <font color="#8b949e" size="2">
+              Access the external destination securely.
+            </font>
+
+            <br><br>
+
+            <img
+              src="https://image.thum.io/get/width/1300/https://evil.com"
+              width="100%"
+            >
+
+            <br><br>
+
+            <font color="#58a6ff" size="4">
+              <b>OPEN EXTERNAL WEBSITE →</b>
+            </font>
+
+          </div>
+
+          <br>
+
+          <font color="#8b949e" size="2">
+            Destination: evil.com
+          </font>
+
+        </td>
+      </tr>
+    </table>
+
+  </a>
+</center>
